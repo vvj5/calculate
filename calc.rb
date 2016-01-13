@@ -1,5 +1,5 @@
 myString = '...mashed potatoes...'
 puts myString
 
-name = "Dude"
+name = "dude"
 puts 'Hey ' + name + '.'
